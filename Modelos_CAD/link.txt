@@ -1,0 +1,5 @@
+Modelos cad :
+https://www.3dcontentcentral.es/Download-Model.aspx?catalogid=171&id=1353117
+
+GitHub temas:
+https://github.com/pointhi/kicad-color-schemes
