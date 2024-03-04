@@ -1,0 +1,17 @@
+https://instrumcontrol.com/maquina-virtual-con-rslogix-500-5000-studio-5000-y-factory-talk-view-gratis/
+
+Usuario de inicio de sesión: Rockwell Automation
+
+Contraseña de inicio de sesión: Instrumcontrol
+
+Características de la máquina virtual de Rslogix, Studio 5000 y Factory Talk View
+la máquina virtual con máquina virtual de Rslogix, Studio 5000 y Factory Talk View, solo está disponible para su uso en Vmware 16
+
+Sistema operativo de la máquina virtual: Windows 7 Ultimate SP1
+Memoria RAM asignada: 8 GB
+Procesadores asignados: 4
+Disco duro asignado: 120 GB
+Peso de la máquina virtual comprimida: 30 GB
+Peso de la máquina virtual descomprimida: 83 GB
+
+Compatible con VMWare 16 en adelante
